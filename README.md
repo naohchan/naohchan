@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and web base design!
 - 💞️ I’m looking to collaborate on every project I can be invited!
 - 📫 How to reach me : https://www.linkedin.com/in/gerald-rodriguez-anaya/
-- ⚡ Fun fact: ....
+- ⚡ Fun fact: I have two more accounts, but shhhhhhhhh
 
 <!---
 naohchan/naohchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
