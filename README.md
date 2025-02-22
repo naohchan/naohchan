@@ -1,4 +1,16 @@
-## Hi, I am GerodDev !
+
+<div align="center">
+<h1 align="center">Hi, I'm GerodDev 👋</h1>
+</div>
+<img src="https://i.imgur.com/3X9pscf.jpeg">
+
+
+
+
+
+
+
+
 
 My name is Gerald, I'm from Peru and I'm a Software Developer.
 
