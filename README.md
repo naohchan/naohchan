@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/3X9pscf.jpeg"  width="800" height="400">
+  <img src="https://i.imgur.com/3X9pscf.jpeg"  width="800" height="350">
 </p>
 
 My name is Gerald, I'm from Peru and I'm a Software Developer.
