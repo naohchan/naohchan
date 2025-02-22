@@ -3,15 +3,9 @@
 <h1 align="center">Hi, I'm GerodDev 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/3X9pscf.jpeg" width="300" height="150">
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://i.imgur.com/3X9pscf.jpeg"  width="500" height="400">
+</p>
 
 My name is Gerald, I'm from Peru and I'm a Software Developer.
 
