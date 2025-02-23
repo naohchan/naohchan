@@ -9,7 +9,7 @@
 
 My name is Gerald, I'm from Peru and I'm a Software Developer.
 
-⭐ I’m looking to collaborate on every project I can be invited!
+⭐ I’m looking to collaborate on every project!
 
 ⭐ How to reach me : [LinkedIn](https://www.linkedin.com/in/gerald-rodriguez-anaya/)
 
